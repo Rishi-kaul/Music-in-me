@@ -1,6 +1,47 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
+
+.Header {overflow: auto;
+    z-index: 1;
+    position: sticky;
+    background-image: c:\Users\asus\Desktop\spotify\spotify-clone\images.jpeg;
+    
+    
+    top: 0;
+    height: 15vh;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.icons ul {
+    list-style: none;
+    display: flex;
+}
+
+.logo img {
+    margin-top: 20px;  
+    width: 350px;
+    height: 200px;
+}
+
+.icons ul img {margin-top: 20px;
+    filter: grayscale();
+    margin-right: 2vw;
+    display: flex;
+    width: 200px;
+    height: 100px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif ,'Josefin Sans';
+}
+
 body{
 background-color:rgb(2, 10, 15);
 
