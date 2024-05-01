@@ -6,8 +6,6 @@ Welcome to Music in Me, a Spotify clone created with HTML, CSS, and JavaScript. 
 ### Features
 - **User Authentication**: Sign up and log in securely to access your personalized music experience.
 - **Browse**: Discover new music, playlists, and genres through a user-friendly interface.
-- **Search**: Easily find your favorite artists, albums, and tracks with our powerful search functionality.
-- **Playlist Management**: Create, edit, and delete playlists to organize your music collection.
 - **Playback Control**: Play, pause, skip, and adjust the volume of your tracks with intuitive controls.
 - **Responsive Design**: Enjoy Music in Me on any device, from desktops to smartphones, thanks to its responsive layout.
 
@@ -22,8 +20,6 @@ To run Music in Me locally on your machine, follow these steps:
    ```
    https://github.com/Rishi-kaul/Music-in-me.git
    ```
-
-3. Open the `index.html` file in your web browser to start using Music in Me.
 
 ### Future Improvements
 While Music in Me provides a basic Spotify-like experience, there are several ways it could be expanded and improved:
